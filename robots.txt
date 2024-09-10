@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jackalune.github.io/autumn-grove/sitemap.xml
